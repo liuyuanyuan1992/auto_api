@@ -1,0 +1,18 @@
+-
+  Params:
+    sort: '胖次猫'
+    format: 'json'
+    Status: 200
+    title: '成功'
+-
+  Params:
+    sort: '胖次猫'
+    format: 'images'
+    Status: 200
+    title: '成功'
+-
+  Params:
+    sort: '淘宝'
+    format: 'json'
+    Status: 200
+    title: '成功'

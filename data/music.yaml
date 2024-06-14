@@ -1,0 +1,19 @@
+-
+  Params:
+    songurl: 'https://node.kg.qq.com/play?s=YaCv8EYfJunVWYcH'
+    format: 'json'
+    Status: 200
+    title: '成功'
+-
+  Params:
+    songurl: 'https://node.kg.qq.com/play?s=YaCv8EYfJunVWYcH'
+    format: 'text'
+    Status: 200
+    title: '成功'
+
+-
+  Params:
+    songurl: 'https://node.kg.qq.com/play?'
+    format: 'json'
+    Status: 200
+    title: '成功'

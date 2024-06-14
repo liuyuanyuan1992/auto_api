@@ -1,0 +1,19 @@
+-
+  Params:
+    method: 'login'
+    callback: 'https://www.aeink.com/callback.php'
+    Status: 200
+    title: '成功'
+-
+  Params:
+    method: 'logout'
+    callback: ''
+    Status: 200
+    title: '成功'
+
+-
+  Params:
+    method: 'logout'
+    callback: 'https://www.aeink.com/callback.php'
+    Status: 200
+    title: '成功'

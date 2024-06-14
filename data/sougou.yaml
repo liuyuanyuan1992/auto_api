@@ -1,0 +1,16 @@
+-
+  Params:
+    url: 'http://api.uomg.com/doc-qrcode.pay.html'
+    Status: 200
+    title: '成功'
+-
+  Params:
+    url: 'http://www.baidu.html'
+    Status: 200
+    title: '成功'
+
+-
+  Params:
+    url: 'http://www.google.html'
+    Status: 200
+    title: '成功'
